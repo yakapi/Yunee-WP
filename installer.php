@@ -89,10 +89,10 @@ abstract class DUPX_Bootstrap_Zip_Mode
 class DUPX_Bootstrap
 {
 	//@@ Params get dynamically swapped when package is built
-	const ARCHIVE_FILENAME	 = 'YuneeTheme_a658b11e75e7754e9399_20200218183852_archive.zip';
-	const ARCHIVE_SIZE		 = '36029512';
+	const ARCHIVE_FILENAME	 = 'YuneeTheme_fd65000e66f836798778_20200220144702_archive.zip';
+	const ARCHIVE_SIZE		 = '72553087';
 	const INSTALLER_DIR_NAME = 'dup-installer';
-	const PACKAGE_HASH		 = 'a658b11-18183852';
+	const PACKAGE_HASH		 = 'fd65000-20144702';
 	const VERSION			 = '1.3.28';
 
 	public $hasZipArchive     = false;
